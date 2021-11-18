@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/blog-pessoal-react-gh/static/css/main.0fffa869.chunk.css",
+    "main.js": "/blog-pessoal-react-gh/static/js/main.2a15501f.chunk.js",
+    "main.js.map": "/blog-pessoal-react-gh/static/js/main.2a15501f.chunk.js.map",
+    "runtime-main.js": "/blog-pessoal-react-gh/static/js/runtime-main.01a7202f.js",
+    "runtime-main.js.map": "/blog-pessoal-react-gh/static/js/runtime-main.01a7202f.js.map",
+    "static/css/2.58a45539.chunk.css": "/blog-pessoal-react-gh/static/css/2.58a45539.chunk.css",
+    "static/js/2.92cdbad1.chunk.js": "/blog-pessoal-react-gh/static/js/2.92cdbad1.chunk.js",
+    "static/js/2.92cdbad1.chunk.js.map": "/blog-pessoal-react-gh/static/js/2.92cdbad1.chunk.js.map",
+    "static/js/3.eaa1cce4.chunk.js": "/blog-pessoal-react-gh/static/js/3.eaa1cce4.chunk.js",
+    "static/js/3.eaa1cce4.chunk.js.map": "/blog-pessoal-react-gh/static/js/3.eaa1cce4.chunk.js.map",
+    "index.html": "/blog-pessoal-react-gh/index.html",
+    "static/css/2.58a45539.chunk.css.map": "/blog-pessoal-react-gh/static/css/2.58a45539.chunk.css.map",
+    "static/css/main.0fffa869.chunk.css.map": "/blog-pessoal-react-gh/static/css/main.0fffa869.chunk.css.map",
+    "static/js/2.92cdbad1.chunk.js.LICENSE.txt": "/blog-pessoal-react-gh/static/js/2.92cdbad1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01a7202f.js",
+    "static/css/2.58a45539.chunk.css",
+    "static/js/2.92cdbad1.chunk.js",
+    "static/css/main.0fffa869.chunk.css",
+    "static/js/main.2a15501f.chunk.js"
+  ]
+}
